@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**gzfrancisco/gzfrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Que Onda?! 👋
 
 - 🔭 I’m currently working on designing solutions and leading engineering teams to develop distributed applications.
 - 🌱 I’m currently learning engineering process for large scale companies and business impact from technological strategies.
@@ -13,4 +8,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <https://gzfrancisco.name>
 - 😄 Pronouns: he.
 - ⚡ Fun fact: A mexican who doesn't enjoy picante.
+
+<!--
+**gzfrancisco/gzfrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently ...
+- 🌱 I’m currently ...
+- 👯 I’m looking to ...
+- 🤔 I’m looking for ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
